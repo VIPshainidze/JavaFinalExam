@@ -1,0 +1,5 @@
+2021-01-27 18:32:34 INFO  Main:19 - კომუნალური გადახდილია: Electricity(customerNumber='david123', amount=12.790000)
+2021-01-27 18:32:49 INFO  Main:20 - კომუნალური გადახდილია: Electricity(customerNumber='david123', amount=12.790000)
+2021-01-27 18:32:49 INFO  Main:20 - კომუნალური გადახდილია: Water(customerNumber='user123', amount=34.780000)
+2021-01-27 19:02:47 INFO  Main:18 - კომუნალური გადახდილია: Electricity(customerNumber='david123', amount=12.790000)
+2021-01-27 19:02:47 INFO  Main:18 - კომუნალური გადახდილია: Water(customerNumber='user123', amount=34.780000)
